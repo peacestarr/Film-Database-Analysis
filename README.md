@@ -1,4 +1,4 @@
-# DVD Rental Store Analysis
+# Film Store Analysis
 
 
 ## Table of Contents
